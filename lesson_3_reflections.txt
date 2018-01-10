@@ -3,3 +3,8 @@ if you're collaborating with others
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 you may not be ready to pull in code from others yet
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches happen within a single repository 
+Clones take an existing repository and copy it to another (can happen locally or from github to local). When you clone a repo, it automatically sets up a remote for you 
+Fork - copying a repository to another on github
