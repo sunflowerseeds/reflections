@@ -9,11 +9,18 @@ before putting them in your repo)
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+you can see what is in your staging area to make sure it's only the file you want to commit before you commit
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+branches separate major changes that aren't part of the core functionality of the project, 
+say if you wanted to try something new that you may not keep or create it in a new language
+you can keep the branches separate so you can switch between them and keep updates separate
+master branch is your production version.
 
 How do the diagrams help you visualize the branch structure?
+knowing how not to lose commits if they're not on a branch, understanding what's master
+and the timeline of the other functionality in the other branches
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
