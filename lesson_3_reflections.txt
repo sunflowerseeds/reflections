@@ -14,3 +14,6 @@ you can work offline, and you understand what changes have been made so far on t
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 you would have to figure out how to sync up any changes to the same body of work, which could be done through modularizing your work, but would be tougher. it may be easier to use a platform with automatic syncing so you don't have to manually do things but all previous work is lost, making it tougher to experiment
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+any time you collaborate, you should make changes in a separate branch so your collaborators have a chance to review the work before putting it in master. this allows you to catch any bugs or issues before adding them to your master branch
