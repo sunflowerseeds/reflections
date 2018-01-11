@@ -11,3 +11,6 @@ Fork - copying a repository to another on github
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 you can work offline, and you understand what changes have been made so far on the collaborative project so you can plan for those in your work
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+you would have to figure out how to sync up any changes to the same body of work, which could be done through modularizing your work, but would be tougher. it may be easier to use a platform with automatic syncing so you don't have to manually do things but all previous work is lost, making it tougher to experiment
